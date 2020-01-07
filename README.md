@@ -43,4 +43,3 @@ $ http://localhost:8080/
 ## Contributors
 Antoniadis Pablo 
 
-(with the help of Bastien Vendrame)
